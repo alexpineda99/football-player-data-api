@@ -42,18 +42,27 @@ Use Cases
 The API can be used to build:
 
 • football squad builder tools
+
 • player comparison apps
+
 • football analytics dashboards
+
 • sports data platforms
+
 • gaming community tools
+
 • football databases
+
 
 Quick Start
 
 All requests require RapidAPI authentication headers.
 
+
 x-rapidapi-key: YOUR_API_KEY
+
 x-rapidapi-host: ultimate-football-data-api.p.rapidapi.com
+
 
 Example request using curl:
 
