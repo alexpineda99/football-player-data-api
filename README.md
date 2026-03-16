@@ -1,13 +1,13 @@
 # football-player-data-api
 Football Player Data API – Historical player ratings, stats and attributes (2014–2022) for developers building football apps, analytics tools and gaming databases.
 
-Football Player Data API
+**Football Player Data API**
 
 A developer-friendly API providing structured football player card data, ratings and advanced attributes across multiple football game editions.
 
 The API allows developers to easily access historical football player statistics and metadata for use in apps, analytics platforms and gaming tools.
 
-Features
+**Features**
 
 • Historical football player ratings (2014–2022)
 
@@ -26,7 +26,7 @@ Features
 • Optimized database queries
 
 
-Supported Editions
+**Supported Editions**
 
 2014
 
@@ -47,14 +47,14 @@ Supported Editions
 2022
 
 
-Example Request
+**Example Request**
 
 GET /ufd/2020/players
 
-Example Response
+**Example Response**
 <img width="1740" height="981" alt="dataset 2020" src="https://github.com/user-attachments/assets/f3e15c9f-5e17-4ad4-9607-f8d672cc6cc2" />
 
-Use Cases
+**Use Cases**
 
 The API can be used to build:
 
@@ -71,7 +71,7 @@ The API can be used to build:
 • football databases
 
 
-Quick Start
+**Quick Start**
 
 All requests require RapidAPI authentication headers.
 
@@ -81,12 +81,12 @@ x-rapidapi-key: YOUR_API_KEY
 x-rapidapi-host: ultimate-football-data-api.p.rapidapi.com
 
 
-Example request using curl:
-
+**Example request using curl:
+**
 curl https://ultimate-football-data-api.p.rapidapi.com/ufd/2020/players
 API Access
 
-You can access the API via RapidAPI:
+**You can access the API via RapidAPI:**
 
 RapidAPI Listing
 https://rapidapi.com/ultimate-football-data-api-ultimate-football-data-api-default/api/ultimate-football-data-api
@@ -102,24 +102,29 @@ https://ufdapi.netlify.app/
 
 Tech Stack
 
-Backend:
+**Backend:**
 
 • Node.js
+
 • Express
+
 • MySQL
 
-Infrastructure:
+
+**Infrastructure:**
 
 • Render hosting
+
 • RapidAPI distribution
 
-Legal Notice
+
+**Legal Notice**
 
 This API provides a historical football player dataset inspired by popular football simulation games.
 
 It is not affiliated with or endorsed by any official football organizations or video game publishers.
 
-Support
+**Support**
 
 For technical support:
 
