@@ -1,4 +1,5 @@
-![Ultimate Football Data API](images/banner.svg)
+
+<img width="4000" height="1000" alt="ufd" src="https://github.com/user-attachments/assets/2b9dec2a-2afb-426a-95eb-5e486824412a" />
 
 # Ultimate Football Data API
 
