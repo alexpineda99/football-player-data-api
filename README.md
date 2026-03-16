@@ -1,3 +1,22 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1280" height="320" fill="#0f172a"></rect>
+
+  <text x="640" y="120" font-size="52" text-anchor="middle" fill="#22c55e" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+        Ultimate Football Data API
+  </text>
+
+  <text x="640" y="180" font-size="26" text-anchor="middle" fill="#e5e7eb" font-family="Arial, Helvetica, sans-serif">
+        Football Player Stats • Ratings • Attributes
+  </text>
+
+  <text x="640" y="220" font-size="20" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif">
+        Developer API for Football Apps, Analytics Tools &amp; Gaming Platforms
+  </text>
+
+</svg>
+![descarga ufd](https://github.com/user-attachments/assets/01d5e137-f89b-452a-8c98-be613e2e09ce)
+
 # football-player-data-api
 Football Player Data API – Historical player ratings, stats and attributes (2014–2022) for developers building football apps, analytics tools and gaming databases.
 
