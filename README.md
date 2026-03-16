@@ -1,7 +1,3 @@
-![Ultimate Football Data API](/bannerufd.png)
-# football-player-data-api
-Football Player Data API – Historical player ratings, stats and attributes (2014–2022) for developers building football apps, analytics tools and gaming databases.
-
 **Football Player Data API**
 
 A developer-friendly API providing structured football player card data, ratings and advanced attributes across multiple football game editions.
