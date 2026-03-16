@@ -1,4 +1,6 @@
-**Football Player Data API**
+![Ultimate Football Data API](images/banner.svg)
+
+# Ultimate Football Data API
 
 A developer-friendly API providing structured football player card data, ratings and advanced attributes across multiple football game editions.
 
