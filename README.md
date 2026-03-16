@@ -19,3 +19,21 @@ Features
 • Optimized database queries
 
 Supported Editions
+
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+
+Example Request
+
+GET /ufd/2020/players
+
+Example Response
+<img width="1740" height="981" alt="dataset 2020" src="https://github.com/user-attachments/assets/f3e15c9f-5e17-4ad4-9607-f8d672cc6cc2" />
+
