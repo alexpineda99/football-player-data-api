@@ -282,3 +282,7 @@ It is not affiliated with or endorsed by any official football organizations or 
 For technical support:
 
 ufd.support@gmail.com
+
+[Get API Access](https://rapidapi.com/ultimate-football-data-api-ultimate-football-data-api-default/api/ultimate-football-data-api)
+
+[Documentation](https://ufdapi.netlify.app/)
