@@ -10,13 +10,21 @@ The API allows developers to easily access historical football player statistics
 Features
 
 • Historical football player ratings (2014–2022)
+
 • Detailed attribute statistics
+
 • Structured player card data
+
 • Pagination support
+
 • Advanced filtering (Mega plan)
+
 • Rate limiting and caching
+
 • High-volume request plans
+
 • Optimized database queries
+
 
 Supported Editions
 
