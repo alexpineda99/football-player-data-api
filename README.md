@@ -57,80 +57,155 @@ GET /ufd/2020/players
 **JSON response:**
 
 {
+
   "name": "Ronaldo",
+  
   "fullname": "C. Ronaldo dos Santos Aveiro",
+  
   "birth_date": "1985-02-05",
+  
   "overall_index": 99,
+  
   "position": "ST",
+  
   "foot": "Right",
+  
   "club": "Piemonte Calcio",
+  
   "league": "Serie A TIM",
+  
   "country": "Portugal",
+  
   "version": "TOTS",
+  
   "skills": 5,
+  
   "weak_foot": 4,
+  
   "height": "187cm | 6'2\"",
+  
   "weight": "83KG",
+  
   "speed_indexOverallStat": 98,
+  
   "speed_indexStats": [
+  
     {
+    
       "acceleration": 96,
+      
       "top_speed": 99
+      
     }
+    
   ],
+  
   "shooting_scoreOverallStat": 99,
+  
   "shooting_scoreStats": [
+  
     {
+    
       "positioning": 99,
+      
       "finishing": 99,
+      
       "shot_power": 99,
+      
       "distance_shots": 99,
+      
       "aerial_strikes": 92,
+      
       "penalties": 90
+      
     }
+    
   ],
+  
   "passing_indexOverallStat": 92,
+  
   "passing_indexStats": [
+  
     {
+    
       "vision": 92,
+      
       "crossing": 94,
+      
       "freeKickAccuracy": 85,
+      
       "short_distribution": 93,
+      
       "long_distribution": 86,
+      
       "curve": 90
+      
     }
+    
   ],
+  
   "dribble_indexOverallStat": 99,
+  
   "dribble_indexStats": [
+  
     {
+    
       "agility": 96,
+      
       "balance": 78,
+      
       "reactions": 99,
+      
       "ballControl": 99,
+      
       "dribbling": 99,
+      
       "composure": 99
+      
     }
+    
   ],
+  
   "defensive_indexOverallStat": 43,
+  
   "defensive_indexStats": [
+  
     {
+    
       "interceptions": 35,
+      
       "headingAccuracy": 99,
+      
       "marking": 34,
+      
       "standingTackle": 39,
+      
       "slidingTackle": 29
+      
     }
+    
   ],
+  
   "physical_indexOverallStat": 94,
+  
   "physical_indexStats": [
+  
     {
+    
       "jumping": 99,
+      
       "stamina": 99,
+      
       "strength": 94,
+      
       "aggression": 75
+      
     }
+    
   ]
+  
 }
+
 
 **Use Cases**
 
