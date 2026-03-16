@@ -37,3 +37,64 @@ GET /ufd/2020/players
 Example Response
 <img width="1740" height="981" alt="dataset 2020" src="https://github.com/user-attachments/assets/f3e15c9f-5e17-4ad4-9607-f8d672cc6cc2" />
 
+Use Cases
+
+The API can be used to build:
+
+• football squad builder tools
+• player comparison apps
+• football analytics dashboards
+• sports data platforms
+• gaming community tools
+• football databases
+
+Quick Start
+
+All requests require RapidAPI authentication headers.
+
+x-rapidapi-key: YOUR_API_KEY
+x-rapidapi-host: ultimate-football-data-api.p.rapidapi.com
+
+Example request using curl:
+
+curl https://ultimate-football-data-api.p.rapidapi.com/ufd/2020/players
+API Access
+
+You can access the API via RapidAPI:
+
+RapidAPI Listing
+https://rapidapi.com/ultimate-football-data-api-ultimate-football-data-api-default/api/ultimate-football-data-api
+
+Landing Page
+https://ufdapi.netlify.app/
+
+Full Documentation
+
+Full documentation is available here:
+
+https://ufdapi.netlify.app/
+
+Tech Stack
+
+Backend:
+
+• Node.js
+• Express
+• MySQL
+
+Infrastructure:
+
+• Render hosting
+• RapidAPI distribution
+
+Legal Notice
+
+This API provides a historical football player dataset inspired by popular football simulation games.
+
+It is not affiliated with or endorsed by any official football organizations or video game publishers.
+
+Support
+
+For technical support:
+
+ufd.support@gmail.com
